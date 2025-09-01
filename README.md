@@ -32,7 +32,7 @@ This project demonstrates responsive layout, accessibility best practices, and p
 ---
 
 ## Deployment
-https://orchard-fed-xylene.vercel.app/
+https://orchard-xylene.vercel.app/
 
 ---
 
