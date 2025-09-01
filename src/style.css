@@ -186,6 +186,7 @@ img {
   .feature__grid {
     align-items: stretch;
     display: grid;
+    gap: 0.625rem;
     grid-template-columns: repeat(3, 1fr);
   }
 
