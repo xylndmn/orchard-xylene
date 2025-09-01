@@ -9,8 +9,8 @@ This project demonstrates responsive layout, accessibility best practices, and p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/orchard-fed-xylene.git
-   cd orchard-fed-xylene
+   git clone https://github.com/xylndmn/orchard-xylene.git
+   cd orchard-xylene
 
 2. 	**Install dependencies**
     ```bash
