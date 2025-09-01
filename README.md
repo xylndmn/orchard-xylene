@@ -1,4 +1,4 @@
-# orchard-fed-xylene
+# Tasteology
 
 A front-end project built with [Vite](https://vitejs.dev/) using **HTML, CSS, and Vanilla JavaScript**.  
 This project demonstrates responsive layout, accessibility best practices, and production-ready front-end code.
