@@ -1,19 +1,19 @@
 import './style.css';
+
+// modal
 import { setupImageModal } from './modal.js';
+
+// components
 import { renderFeature } from './components/feature.js';
 import { renderTaste } from './components/taste.js';
 
-import leftImg from '/left.webp';
-import rightTopImg from '/right-top.webp';
-import rightBottomImg from '/right-bottom.webp';
-import redImg from '/tight-top.webp';
-import greenImg from '/tight-top-green.webp';
-import whiteImg from '/tight-top-white.webp';
+// data
+import { content } from './content.js';
 
 document.querySelector('#app').innerHTML = `
   <main id="main-content">
-    ${renderFeature({ leftImg, rightTopImg, rightBottomImg })}
-    ${renderTaste({ redImg, greenImg, whiteImg })}
+    ${renderFeature(content.feature)}
+    ${renderTaste(content.taste)}
   </main>
 `;
 
